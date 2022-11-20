@@ -6,7 +6,7 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 
 <br>
 <br>
-<h2>🚀 Linguagens e frameworks</h2>
+<h2>🚀 Linguagens, frameworks, bibliotecas, etc.</h2>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react" />
 </a>
@@ -15,7 +15,7 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 <br>
 <h2>💻 Prática</h2>
 
-![](https://github.com/dhomini-rabelo/dhomini-rabelo/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="left">
   <img height="165em" 
@@ -23,6 +23,8 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
   <img height="165em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhomini-rabelo&layout=compact&langs_count=7&theme=github"/>
 </div>
+
+![](./assets/github-user-contribution.svg)
 
 
 <br>
