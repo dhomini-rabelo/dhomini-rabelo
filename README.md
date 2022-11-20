@@ -24,9 +24,6 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhomini-rabelo&layout=compact&langs_count=7&theme=github"/>
 </div>
 
-![](./assets/github-user-contribution.svg)
-
-
 <br>
 <h2>📬 Contatos</h2>
 
