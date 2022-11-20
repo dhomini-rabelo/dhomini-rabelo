@@ -7,8 +7,6 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 
 <br>
 <h2>🚀 Linguagens e frameworks</h2>
-<br>
-
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react" />
 </a>
@@ -28,7 +26,6 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 
 <br>
 <h2>📬 Contatos</h2>
-<br>
 
 <div>
 <a href="https://www.linkedin.com/in/dhomini-rabelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
