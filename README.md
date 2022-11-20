@@ -3,14 +3,15 @@
 Trabalho como Desenvolvedor Web, utilizando o framework Django. Atualmente estou fazendo o curso Ignite da Rocketseat,
 com foco no estudo de React e Next, minhas principais linguagens são Python e Typescript, estudo todos os dias.
 </span>
-<br>
 
+<br>
 <br>
 <h2>🚀 Linguagens e frameworks</h2>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react" />
 </a>
 
+<br>
 <br>
 <h2>💻 Prática</h2>
 
