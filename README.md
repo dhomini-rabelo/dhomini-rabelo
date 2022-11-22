@@ -13,9 +13,39 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 
 <br>
 <br>
-<h2>💻 Prática</h2>
+<h2>💻 Projetos</h2>
+
+<h3><strong>React:</strong></h3>
+<p>
+<a href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a>,
+<a href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-001">Estudos-Ignite-React-001</a>,
+<a href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a> e
+<a href="https://github.com/dhomini-rabelo/Feedget-Frontend-React">Feedget-Frontend-React</a>.
+<p>
+
+<h3><strong>React e Django:</strong></h3>
+<p>
+<a href="https://github.com/dhomini-rabelo/chat">Chat</a>.
+<p>
 
 
+<h3><strong>Django Rest Framework (APIs):</strong></h3>
+<p>
+<a href="https://github.com/dhomini-rabelo/Rest-Full-Control">Rest-Full-Control</a>,
+<a href="https://github.com/dhomini-rabelo/Product-System">Product-System</a> e
+<a href="https://github.com/dhomini-rabelo/Employee-Management">Employee-Management</a>.
+<p>
+
+<h3><strong>Django:</strong></h3>
+<p>
+<a href="https://github.com/dhomini-rabelo/Blog">Blog</a> e
+<a href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.q</a>.
+
+
+
+<br>
+<br>
+<h2>📈 Prática</h2>
 
 <div align="left">
   <img height="165em" 
