@@ -47,7 +47,6 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 <p>
 
 <br>
-<br>
 <h2>📈 Prática</h2>
 
 <div align="left">
