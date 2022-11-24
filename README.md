@@ -19,7 +19,8 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 <p>
 <a target="_blank" href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-001">Estudos-Ignite-React-001</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a> e
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-003">Estudos-Ignite-React-003</a> e
 <a target="_blank" href="https://github.com/dhomini-rabelo/Feedget-Frontend-React">Feedget-Frontend-React</a>.
 <p>
 
