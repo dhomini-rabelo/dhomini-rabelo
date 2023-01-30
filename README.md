@@ -8,7 +8,7 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 <br>
 <h2>🚀 Linguagens, frameworks, bibliotecas, etc.</h2>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react" />
+   <img src="https://skillicons.dev/icons?i=python,django,js,typescript,react,next" />
 </a>
 
 <br>
@@ -20,13 +20,18 @@ com foco no estudo de React e Next, minhas principais linguagens são Python e T
 <a target="_blank" href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-001">Estudos-Ignite-React-001</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-003">Estudos-Ignite-React-003</a> e
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-003">Estudos-Ignite-React-003</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-004">Estudos-Ignite-React-004</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-005">Estudos-Ignite-React-005</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-006">Estudos-Ignite-React-006</a> e
 <a target="_blank" href="https://github.com/dhomini-rabelo/Feedget-Frontend-React">Feedget-Frontend-React</a>.
 <p>
 
 <h3><strong>React e Django:</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a>.
+<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a> e
+(<a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Frontend">Coin-Frontend</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Backend">Coin-Backend</a>)
+.
 <p>
 
 
