@@ -1,7 +1,6 @@
 <h1>👋 Bem-vindo ao meu Github</h1>
 <span>
-Trabalho como Desenvolvedor Web, utilizando o framework Django. Atualmente estou fazendo o curso Ignite da Rocketseat,
-com foco no estudo de React e Next, minhas principais linguagens são Python e Typescript, estudo todos os dias.
+Trabalho como Desenvolvedor Web, utilizando o framework Django. Atualmente estou desenvolvendo projetos como freelancer, com Django e React(Next), recentemente conclui o curso Ignite da Rocketseat, com foco no estudo de React e Next, minhas principais linguagens são Python e Typescript, estudo todos os dias.
 </span>
 
 <br>
