@@ -28,7 +28,7 @@ Trabalho como Desenvolvedor Web, utilizando o framework Django. Atualmente estou
 
 <h3><strong>React e Django:</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a> e
+<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/remotely-store">Remotely.io</a> e
 (<a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Frontend">Coin-Frontend</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Backend">Coin-Backend</a>)
 .
 <p>
