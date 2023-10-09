@@ -31,25 +31,36 @@ Trabalho como Desenvolvedor Web, utilizando o framework Django. Atualmente estou
 <a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/remotely-store">Remotely.io</a> e
 (<a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Frontend">Coin-Frontend</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Backend">Coin-Backend</a>)
 .
-<p>
+</p>
 
+<h3><strong>Node:</strong></h3>
+<p>
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-Node-001">Estudos-Ignite-Node-001</a> e
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-Node-002">Estudos-Ignite-Node-002</a>.
+<p>
 
 <h3><strong>Django Rest Framework (APIs):</strong></h3>
 <p>
 <a target="_blank" href="https://github.com/dhomini-rabelo/Rest-Full-Control">Rest-Full-Control</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Product-System">Product-System</a> e
 <a target="_blank" href="https://github.com/dhomini-rabelo/Employee-Management">Employee-Management</a>.
-<p>
+</p>
 
 <h3><strong>Django:</strong></h3>
 <p>
 <a target="_blank" href="https://github.com/dhomini-rabelo/Blog">Blog</a> e
 <a target="_blank" href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.q</a>.
+</p>
+
+<h3><strong>Boas práticas:</strong></h3>
+<p>
+<a href="https://github.com/dhomini-rabelo/design-patterns-python">Design Patterns</a>.
+</p>
 
 <h3><strong>Futuras bibliotecas:</strong></h3>
 <p>
 <a href="https://github.com/dhomini-rabelo/Fast">Fast</a>.
-<p>
+</p>
 
 <br>
 <h2>📈 Prática</h2>
