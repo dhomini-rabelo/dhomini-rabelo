@@ -1,8 +1,9 @@
 <h1>👋 Welcome to my Github</h1>
-<p>
+<span>
 I started programming in 2018 during my technical high school, and I have been working as a programmer since the end of 2021. I have always been passionate about technology and programming, initially fascinated by the power that programming itself gives us, and later by the way we design, build, and maintain software, applying the necessary business rules and impacting our client's life. I am also driven by challenges, work, and goals, and I am constantly developing myself with projects and courses to become a more well-qualified and prepared professional, as well as to add knowledge to my team.
-</p>
+</span>
 
+<br>
 <h2>🚀 Languages, frameworks, libraries, etc.</h2>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=typescript,js,react,next,nest,python,django" />
@@ -34,10 +35,10 @@ I started programming in 2018 during my technical high school, and I have been w
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-Node-002">Estudos-Ignite-Node-002</a>.
 <p>
 
-<h3><strong>Django and Django Rest Framework (APIs):</strong></h3>
+<h3><strong>Django and Django Rest Framework:</strong></h3>
 <p>
 <a target="_blank" href="https://github.com/dhomini-rabelo/Blog">Blog</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.q</a>.
+<a target="_blank" href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.q</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Rest-Full-Control">Rest-Full-Control</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Product-System">Product-System</a> and
 <a target="_blank" href="https://github.com/dhomini-rabelo/Employee-Management">Employee-Management</a>.
@@ -48,10 +49,9 @@ I started programming in 2018 during my technical high school, and I have been w
 <p>
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-001">Estudos-Ignite-React-001</a>,
 <a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a>,
-<a href="https://github.com/dhomini-rabelo/Fast">Fast</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a> and
+<a href="https://github.com/dhomini-rabelo/Fast">Fast</a>.
 </p>
-
 
 <br>
 <h2>📈 Activity</h2>
@@ -64,7 +64,7 @@ I started programming in 2018 during my technical high school, and I have been w
 </div>
 
 <br>
-<h2>📬 Contacts</h2>
+<h2>📬 Contacts (dhominirabelo@gmail.com)</h2>
 
 <div>
 <a href="https://www.linkedin.com/in/dhomini-rabelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
