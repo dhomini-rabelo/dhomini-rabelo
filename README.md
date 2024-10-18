@@ -1,9 +1,7 @@
 <h1>👋 Welcome to my Github</h1>
-<span>
+<p>
 I started programming in 2018 during my technical high school, and I have been working as a programmer since the end of 2021. I have always been passionate about technology and programming, initially fascinated by the power that programming itself gives us, and later by the way we design, build, and maintain software, applying the necessary business rules and impacting our client's life. I am also driven by challenges, work, and goals, and I am constantly developing myself with projects and courses to become a more well-qualified and prepared professional, as well as to add knowledge to my team.
-</span>
-
-<br>
+</p>
 
 <span>
 Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https://portfolio-dhominirabelos-projects.vercel.app/</a>
