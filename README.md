@@ -4,6 +4,12 @@ I started programming in 2018 during my technical high school, and I have been w
 </span>
 
 <br>
+
+<span>
+Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https://portfolio-dhominirabelos-projects.vercel.app/</a>
+</span>
+
+<br>
 <h2>🚀 Languages, frameworks, libraries, etc.</h2>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=typescript,js,react,next,nest,python,django" />
