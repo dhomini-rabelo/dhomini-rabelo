@@ -4,7 +4,7 @@ I started programming in 2018 during my technical high school, and I have been w
 </p>
 
 <span>
-Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https://portfolio-dhominirabelos-projects.vercel.app/</a>
+Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https://portfolio-dhominirabelos-projects.vercel.app</a><br>
 Resume: <a href="https://portfolio-dhominirabelos-projects.vercel.app/hero/resume.pdf">https://portfolio-dhominirabelos-projects.vercel.app/hero/resume.pdf</a>
 </span>
 
@@ -16,7 +16,7 @@ Resume: <a href="https://portfolio-dhominirabelos-projects.vercel.app/hero/resum
 
 <br>
 <br>
-<h2>💻 Projetos</h2>
+<h2>💻 Main Projects</h2>
 
 <h3><strong>Fullstack</strong></h3>
 <p>
