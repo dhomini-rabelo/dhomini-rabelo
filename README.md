@@ -5,6 +5,7 @@ I started programming in 2018 during my technical high school, and I have been w
 
 <span>
 Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https://portfolio-dhominirabelos-projects.vercel.app/</a>
+Resume: <a href="https://portfolio-dhominirabelos-projects.vercel.app/hero/resume.pdf">https://portfolio-dhominirabelos-projects.vercel.app/hero/resume.pdf</a>
 </span>
 
 <br>
@@ -15,54 +16,43 @@ Portfolio: <a href="https://portfolio-dhominirabelos-projects.vercel.app/">https
 
 <br>
 <br>
-<h2>💻 Main Projects</h2>
+<h2>💻 Projetos</h2>
 
-<h3><strong>React(Next) and Django:</strong></h3>
+<h3><strong>Fullstack</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Chat</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/remotely-store">Remotely.io</a> and
-(<a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Frontend">Coin-Frontend</a>, <a target="_blank" href="https://github.com/dhomini-rabelo/Coin-Backend">Coin-Backend</a>)
-.
+<a target="_blank" href="https://github.com/dhomini-rabelo/movie-api">Movie Website</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/remotely-store">Remotely.io</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/gptcuts">GPTCuts</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/chat">Talky</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Ignite-Call">Ignite Call</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-004">Ignite Shop</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-003?tab=readme-ov-file#projeto-do-curso-feito-individualmente">Github Blog</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002?tab=readme-ov-file#projeto-do-curso-feito-individualmente">Coffee Delivery</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Blog">Code Portal</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.Q</a>
 </p>
 
-<h3><strong>React and Next:</strong></h3>
+<h3><strong>Chatbot</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-003">Estudos-Ignite-React-003</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-004">Estudos-Ignite-React-004</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-005">Estudos-Ignite-React-005</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Ignite-Call">Ignite Call</a> and
-<a target="_blank" href="https://github.com/dhomini-rabelo/Feedget-Frontend-React">Feedget-Frontend-React</a>.
+<a target="_blank" href="https://github.com/dhomini-rabelo/seja-adimplente-chatbot">Seja Adimplente AI Chatbot</a>
 </p>
 
-<h3><strong>Node:</strong></h3>
+<h3><strong>Mobile</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-Node-001">Estudos-Ignite-Node-001</a> and
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-Node-002">Estudos-Ignite-Node-002</a>.
-<p>
-
-<h3><strong>Django and Django Rest Framework:</strong></h3>
-<p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/Blog">Blog</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Roquet-q">Roquet.q</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Rest-Full-Control">Rest-Full-Control</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Product-System">Product-System</a> and
-<a target="_blank" href="https://github.com/dhomini-rabelo/Employee-Management">Employee-Management</a>.
+<a target="_blank" href="https://github.com/dhomini-rabelo/nlw-pocket">Nearby</a>
 </p>
 
-<br>
-<h2>💻 Other Projects</h2>
+<h3><strong>API</strong></h3>
 <p>
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-001">Estudos-Ignite-React-001</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Estudos-Ignite-React-002">Estudos-Ignite-React-002</a>,
-<a target="_blank" href="https://github.com/dhomini-rabelo/Projetos-React">Projetos-React</a> and
-<a href="https://github.com/dhomini-rabelo/Fast">Fast</a>.
+<a target="_blank" href="https://github.com/dhomini-rabelo/Rest-Full-Control">Rest Full Control</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Product-System">Product System</a>,
+<a target="_blank" href="https://github.com/dhomini-rabelo/Employee-Management">Employee Management</a>
 </p>
 
 <br>
 <h2>📈 Activity</h2>
 
 <div align="left">
-  <img height="165em" 
-  src="https://github-readme-stats.vercel.app/api?username=dhomini-rabelo&show_icons=true&theme=github&include_all_commits=true&count_private=true"/>
   <img height="165em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhomini-rabelo&layout=compact&langs_count=7&theme=github"/>
 </div>
